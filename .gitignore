@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
 /Arduino_venv/
 .DS_Store
-.csv
+*.csv
